@@ -16,9 +16,9 @@ graph["b"]["fin"] = 5
 graph["fin"] = {}
 
 infinity = float("inf")
-cost = {}
-cost["a"] = 6
-cost["b"] = 2
-cost["fin"] = infinity
+costs = {}
+costs["a"] = 6
+costs["b"] = 2
+costs["fin"] = infinity
 
 parents = {}
