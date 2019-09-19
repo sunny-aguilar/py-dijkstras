@@ -17,4 +17,4 @@ graph["fin"] = {}
 
 infinity = float("inf")
 cost = {}
-cost["a"]
+cost["a"] = 6
