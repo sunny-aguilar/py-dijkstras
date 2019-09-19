@@ -15,3 +15,4 @@ graph["b"]["fin"] = 5
 
 graph["fin"] = {}
 
+infinity = float("inf")
