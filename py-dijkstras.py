@@ -10,7 +10,7 @@ graph["a"] = {}
 graph["a"]["b"] = 1
 
 graph["b"] = {}
-graph["b"] = 3
+graph["b"]["a"] = 3
 graph["b"] = 5
 
 graph["fin"] = {}
