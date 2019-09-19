@@ -17,3 +17,4 @@ graph["fin"] = {}
 
 infinity = float("inf")
 cost = {}
+
