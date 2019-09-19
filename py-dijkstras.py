@@ -5,3 +5,5 @@ graph["start"]["a"] = 6
 graph["start"]["b"] = 2
 
 print(graph["start"].keys())
+
+graph["a"] = {}
