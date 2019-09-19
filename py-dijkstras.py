@@ -10,4 +10,5 @@ graph["a"] = {}
 graph["a"]["b"] = 1
 
 graph["b"] = {}
+graph["b"] = 
 
