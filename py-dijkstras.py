@@ -13,4 +13,4 @@ graph["b"] = {}
 graph["b"] = 3
 graph["b"] = 5
 
-graph["fin"]
+graph["fin"] = {}
