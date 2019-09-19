@@ -22,4 +22,4 @@ costs["b"] = 2
 costs["fin"] = infinity
 
 parents = {}
-parents["a"]
+parents["a"] = "start"
