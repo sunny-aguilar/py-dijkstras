@@ -19,4 +19,4 @@ infinity = float("inf")
 cost = {}
 cost["a"] = 6
 cost["b"] = 2
-
+cost[""]
