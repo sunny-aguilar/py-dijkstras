@@ -20,3 +20,4 @@ cost = {}
 cost["a"] = 6
 cost["b"] = 2
 cost["fin"] = infinity
+
