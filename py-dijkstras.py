@@ -7,3 +7,4 @@ graph["start"]["b"] = 2
 print(graph["start"].keys())
 
 graph["a"] = {}
+graph["a"]["b"] = 1
