@@ -28,6 +28,6 @@ parents["fin"] = None
 
 processed = []
 
-node = find_lowest_cost_node(costs):
+node = find_lowest_cost_node(costs)
 
 
