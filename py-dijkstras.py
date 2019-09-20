@@ -24,4 +24,4 @@ costs["fin"] = infinity
 parents = {}
 parents["a"] = "start"
 parents["b"] = "start"
-parents["fin"] = 
+parents["fin"] = None
