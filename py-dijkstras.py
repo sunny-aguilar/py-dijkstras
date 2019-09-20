@@ -36,4 +36,4 @@ while node is not None:
         new_cost = cost + neighbors[n]
         if costs[n] = > new_cost:
             costs[n] = new_cost
-            parents[n]
+            parents[n] = node
