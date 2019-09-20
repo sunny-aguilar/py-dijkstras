@@ -27,3 +27,4 @@ parents["b"] = "start"
 parents["fin"] = None
 
 processed = []
+
