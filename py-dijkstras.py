@@ -38,3 +38,4 @@ while node is not None:
             costs[n] = new_cost
             parents[n] = node
     processed.append(node)
+    
