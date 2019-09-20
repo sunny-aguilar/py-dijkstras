@@ -37,4 +37,4 @@ while node is not None:
         if costs[n] = > new_cost:
             costs[n] = new_cost
             parents[n] = node
-    processed
+    processed.append()
