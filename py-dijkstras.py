@@ -34,3 +34,4 @@ while node is not None:
     neighbors = graph[node]
     for n in neighbors.keys():
         new_cost = cost + neighbors[n]
+        if costs
