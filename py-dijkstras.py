@@ -29,5 +29,5 @@ parents["fin"] = None
 processed = []
 
 node = find_lowest_cost_node(costs)
-
+while node is not None:
 
